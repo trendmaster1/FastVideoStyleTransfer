@@ -51,7 +51,7 @@ python transform_video.py --in-path path/to/input/vid.mp4 \
 
 # Result #
 
-![View Input Video](https://github.com/trendmaster1/FastVideoStyleTransfer/tree/master/examples/results/view.mp4)
+![View Input Video](https://github.com/trendmaster1/FastVideoStyleTransfer/tree/master/examples/results/fox_udnie.gif)
 
 ![View Output Video](https://https://github.com/trendmaster1/FastVideoStyleTransfer/tree/master/examples/results/view_out.mp4)
 
