@@ -51,10 +51,10 @@ python transform_video.py --in-path path/to/input/vid.mp4 \
 
 # Result #
 
-![View Input Video](https://github.com/lengstrom/fast-style-transfer/tree/master/examples/results/view.mp4)
+![View Input Video](https://github.com/trendmaster1/FastVideoStyleTransfer/tree/master/examples/results/view.mp4)
 
-![View Output Video](https://github.com/lengstrom/fast-style-transfer/tree/master/examples/results/view_out.mp4)
+![View Output Video](https://https://github.com/trendmaster1/FastVideoStyleTransfer/tree/master/examples/results/view_out.mp4)
 
-![Pool Input Video](https://github.com/lengstrom/fast-style-transfer/tree/master/examples/results/pool.mp4)
+![Pool Input Video](https://github.com/trendmaster1/FastVideoStyleTransfer/tree/master/examples/results/pool.mp4)
 
-![Pool Output Video](https://github.com/lengstrom/fast-style-transfer/tree/master/examples/results/pool_output.mp4)
+![Pool Output Video](https://github.com/trendmaster1/FastVideoStyleTransfer/tree/master/examples/results/pool_output.mp4)
